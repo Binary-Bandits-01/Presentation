@@ -1,9 +1,28 @@
 # Presentation
-This GitHub repository is dedicated to hosting a single, impactful presentation slide deck summarizing the key insights, findings, and outcomes of this red team project. A link is provided to the recording of our live presentation.
+
+Welcome to the Presentation section of our GitHub repository. This section is dedicated to hosting a single, impactful presentation slide deck that summarizes the key insights, findings, and outcomes of our red team project.
+
+## Table of Contents
 
 [Presentation Slide Deck](placeholder)
 
 [Live Presentation Video](placeholder)
+
+<br>
+
+## Presentation Slide Deck
+
+The Presentation Slide Deck contains a concise and visually engaging summary of our red team project. It highlights key insights, findings, and outcomes. You can view and download the slide deck for a comprehensive overview of our project.
+
+- [Presentation Slide Deck](placeholder)
+
+<br>
+
+## Live Presentation Video
+
+The Live Presentation Video is a recording of the actual presentation delivered by our team. It provides additional context and insights into our red team project. You can watch the video to get a deeper understanding of our work.
+
+- [Live Presentation Video](placeholder)
 
 <br>
 
