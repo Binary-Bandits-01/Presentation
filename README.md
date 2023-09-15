@@ -4,7 +4,7 @@ Welcome to the Presentation section of our GitHub repository. This section is de
 
 ## Table of Contents
 
-[Presentation Slide Deck](placeholder)
+[Presentation Slide Deck](https://github.com/Binary-Bandits-01/Presentation/blob/main/Final%20Project%20Deck.pdf)
 
 [Live Presentation Video](placeholder)
 
