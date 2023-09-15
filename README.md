@@ -1,5 +1,5 @@
 # Presentation
-This GitHub repository is dedicated to hosting a single, impactful presentation slide deck summarizing the key insights, findings, and outcomes of this red team project.
+This GitHub repository is dedicated to hosting a single, impactful presentation slide deck summarizing the key insights, findings, and outcomes of this red team project. A link is provided to the recording of our live presentation.
 
 [Presentation Slide Deck](placeholder)
 
